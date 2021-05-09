@@ -1,0 +1,44 @@
+
+body {
+    padding: 20px 30px;
+    
+
+}
+
+h1{
+    font-size: 2rem;
+    padding: 40px 60px;
+    
+}
+
+.campo {
+    margin-bottom: 1em;
+   
+    
+}
+
+.campo label {
+
+    margin-bottom: 0.2em;
+    color:#666;
+    display: block;
+      
+
+
+   /*nome e tel um do lado do outro*/  
+ }
+fieldset.grupo .campo {
+    float: left;
+    margin-right: 3em;
+}
+/*p/m/g*/
+.radiobox label{
+    width: auto;
+    display: inline-block;
+}
+
+
+
+  
+        
+    
